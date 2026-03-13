@@ -1,4 +1,4 @@
-# 🤖 HELLO-BOT — AI Chatbot with Interactive Robot Mascot
+# 🤖 HELLO-BOT — AI Chatbot with Interactive Robot Mascot(GEMINI API KEY)
 
 A stylish, premium AI chatbot powered by **Google Gemini 2.5 Flash**, built with Flask and a fully custom animated front-end featuring a futuristic floating robot mascot.
 
